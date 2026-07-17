@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alvaro Leonel A. V.
+# 👋 Hi, I'm Alvaro Leonel Angulo Vera
 
 ## QA Automation Engineer | Performance Testing | Telecommunications Engineer
 
@@ -140,29 +140,39 @@ Topics covered:
 
 ---
 
-## 🌐 Networking Labs
+## 💻 Technical Skills
 
-Networking practices including:
+### QA & Testing
+- Manual Testing
+- API Testing
+- Performance Testing
+- Test Automation
 
-- IP Addressing
-- Routing
-- Switching
-- VLAN
-- DHCP
+### Frameworks
+- Karate
+- Serenity BDD
+- K6
+- Cucumber
+
+### DevOps
+- Git
+- GitHub
+- SonarQube
+
+### Databases
+- Oracle
+- SQLite
+- SQL
+
+### Networking
+- TCP/IP
 - DNS
+- HTTP/HTTPS
 
----
-
-## 🔐 Cybersecurity Labs
-
-Practical cybersecurity exercises.
-
-Topics include:
-
-- OWASP Top 10
-- Authentication
-- Authorization
-- Security Testing
+### Security
+- OWASP Fundamentals
+- SonarQube
+- Secure Testing Concepts
 
 ---
 
@@ -207,11 +217,11 @@ Topics include:
 
 **LinkedIn**
 
-https://linkedin.com/in/alvaro-a-v
+https://linkedin.com/in/alvaro-angulo-vera
 
 **Email**
 
-alvaro.xxx@hotmail.com
+alvaro.angulo86@hotmail.com
 
 ---
 
